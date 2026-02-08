@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Diego Limo — Growth, Marketing & UGC",
+  title: "Diego Limo",
   description:
     "Diego Limo is a growth-focused marketing creator helping modern brands turn attention into measurable growth.",
 };
